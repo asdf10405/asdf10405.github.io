@@ -503,7 +503,7 @@ aside#sidebar {
   min-height: 504px;
   padding-left: 20px;
   font-size: 12px;
-  line-height: 0;
+  line-height: 0.1;
   background: transparent url(../images/sidebar-bg.jpg) 0 0 no-repeat;
 }
 
